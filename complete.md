@@ -23,12 +23,12 @@ Decision Matrix
 ---------------
 
 | Option            | Pros         | Cons         | Criteria                 | Chosen               |
------------------------------------------------------------------------------------------------------
-| Short Option Name | list of pros | list of cons | each criteria check or x | check box for chosen |
-| Short Option Name | list of pros | list of cons | each criteria check or x | check box for chosen |
-| Short Option Name | list of pros | list of cons | each criteria check or x | check box for chosen |
-| Short Option Name | list of pros | list of cons | each criteria check or x | check box for chosen |
-| Short Option Name | list of pros | list of cons | each criteria check or x | check box for chosen |
+|-------------------|--------------|--------------|--------------------------|----------------------|
+| Short Option Name | <ul><li>Item one.</li><li>Item two.</li></ul> | <ul><li>Item one.</li><li>Item two.</li></ul> |  :x: Criteria 1<br> :white_check_mark: Criteria 2<br> :white_check_mark: Criteria 3  | :white_check_mark: |
+| Short Option Name | list of pros | list of cons | each criteria check or x | :x: |
+| Short Option Name | list of pros | list of cons | each criteria check or x | :x: |
+| Short Option Name | list of pros | list of cons | each criteria check or x | :x: |
+| Short Option Name | list of pros | list of cons | each criteria check or x | :x: |
 
 Consequences of Decision
 ------------------------
